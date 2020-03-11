@@ -14,7 +14,6 @@ class Task1
 		{
 			arr[i]=sc.nextLine();		
 		}
-
 		for (int i=0;i<arr.length;i++)
 		{
 			
