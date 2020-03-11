@@ -1,0 +1,17 @@
+/tmp/CCAEDF8E-29E3-4DEB-B613-560CB69562AE.vVuWTk/main.swift:6:2: error: expected 'func' keyword in instance method declaration
+        initi(_ arr : [String])
+        ^
+        func 
+/tmp/CCAEDF8E-29E3-4DEB-B613-560CB69562AE.vVuWTk/main.swift:42:2: error: declaration is only valid at file scope
+        extension String 
+        ^
+/tmp/CCAEDF8E-29E3-4DEB-B613-560CB69562AE.vVuWTk/main.swift:3:7: error: class 'Task' has no initializers
+class Task
+      ^
+/tmp/CCAEDF8E-29E3-4DEB-B613-560CB69562AE.vVuWTk/main.swift:5:6: note: stored property 'myarray' without initial value prevents synthesized initializers
+        var myarray : [String]
+            ^
+                               = []
+/tmp/CCAEDF8E-29E3-4DEB-B613-560CB69562AE.vVuWTk/main.swift:55:11: error: 'Task' cannot be constructed because it has no accessible initializers
+var obj = Task(fruit)
+          ^
